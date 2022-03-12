@@ -1,0 +1,54 @@
+
+body
+{
+    font-family: 'Raleway', sans-serif !important;
+    background-color: #dddddd !important;
+    background-image: url('Wave-10s-1536px.svg') !important;
+}
+
+.audiob
+{
+    margin: 3%;
+    padding: 1.5% !important;
+    border-radius: 20px !important;
+    border: none !important;
+    box-shadow: 1px 1px 13px 1px rgba(0,0,0,0.75);
+
+
+
+
+
+    
+-webkit-box-shadow: 1px 1px 13px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 1px 13px 1px rgba(0,0,0,0.75);
+
+    
+}
+
+.record
+{
+    padding-left: 100px;
+    width: 50%;
+}
+
+.start
+{
+    background-color: #D08C7E !important;
+    /* #258b5f #e4f9f5 #30b37b #1a6343 #ffffff #baf0e6; */
+}
+
+.pause
+{
+    background-color: #F0D88C !important;
+}
+
+.stop
+{
+    background-color: #1a6343 !important;
+}
+
+.predict
+{
+    background-color: #374e3d;
+    color: beige;
+}
