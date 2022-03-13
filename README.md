@@ -1,5 +1,4 @@
 
-=======
 # Detectinator
 A project which can be used by soldiers to quickly check their respiratory health.
 
